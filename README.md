@@ -1,4 +1,4 @@
-###   New bxvl server v53 testing
+### New bxvl server v53 testing
 # First start your server
 # What's abour IP IP is changed?
 # Yes go to pydroid and start server
